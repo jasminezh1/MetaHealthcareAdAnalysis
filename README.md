@@ -1,0 +1,1 @@
+This repository contains the code used for my senior thesis. It contains the Python code used to generate keywords, the R code used to collect ads using the Meta Graph API, and the Python code used to analyze the ad text.
